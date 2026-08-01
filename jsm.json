@@ -1,0 +1,276 @@
+{
+  "spider": "./pg.jar;md5;a6e7b44dd7151aaaf18a32cfe9bc686a",
+  "lives": [
+    {
+      "name": "iptv",
+      "type": 0,
+      "url": "http://192.168.1.2:8000/iptv.m3u"
+    },
+    {
+      "name": "github",
+      "type": 0,
+      "url": "https://iptv.yang-1989.xyz/playlist.m3u"
+    },
+    {
+      "name": "tg",
+      "type": 0,
+      "url": "https://live.445569.xyz/live.m3u"
+    }
+  ],
+  "sites": [
+    {
+      "key": "配置中心",
+      "name": "20260731-0955",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "./lib/tokenm.json"
+    },
+    {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 1,
+      "ext": "./lib/tokenm.json$$$./lib/douban.json"
+    },
+    {
+      "key": "115Share",
+      "name": "我的115",
+      "type": 3,
+      "api": "csp_P115Share",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$./lib/115share.txt",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "myquark",
+      "name": "我的夸克",
+      "type": 3,
+      "jar": "./dp.jar;md5;b6c28db3ed75438481f2fbae81a58428",
+      "api": "csp_MyQuark",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "timeout": 30,
+      "ext": "./lib/myquark.json",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "mybaidu",
+      "name": "我的百度",
+      "type": 3,
+      "jar": "./dp.jar;md5;b6c28db3ed75438481f2fbae81a58428",
+      "api": "csp_MyBaiDu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "timeout": 30,
+      "ext": "./lib/mybaidu.json",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "AliShare",
+      "name": "我的阿里",
+      "type": 3,
+      "api": "csp_AliShare",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json$$$./lib/alishare.txt",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "PanSouGo",
+      "name": "盘搜",
+      "type": 3,
+      "api": "csp_PanSouGo",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "token": "./lib/tokenm.json",
+        "siteurl": "https://panso.xxmu.top",
+        "plugins": "all",
+        "panlist": "115,baidu,aliyun,quark"
+      }
+    },
+    {
+      "key": "PanSou",
+      "name": "夸克",
+      "type": 3,
+      "jar": "./dp.jar;md5;b6c28db3ed75438481f2fbae81a58428",
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": {
+        "sources": [
+          "夸克"
+        ]
+      }
+    },
+    {
+      "key": "bili",
+      "name": "哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 30,
+      "playerType": 2,
+      "hide": 1,
+      "ext": {
+        "type": "演唱会#电影#电视剧#纪录片#综艺#音乐#舞蹈#影视#知识#美食#风光#田园#户外",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "Youtube",
+      "name": "Youtube",
+      "type": 3,
+      "api": "csp_Youtube",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "timeout": 30,
+      "hide": 1,
+      "ext": {
+        "token": "./lib/tokenm.json",
+        "json": "./lib/youtube.json"
+      }
+    },
+    {
+      "key": "Guazi",
+      "name": "瓜子",
+      "type": 3,
+      "api": "csp_Guazi",
+      "quickSearch": 1,
+      "changeable": 0,
+      "hide": 1,
+      "filterable": 1
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "changeable": 0,
+      "timeout": 30,
+      "ext": "./lib/tokenm.json",
+      "hide": 1
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$https://woggpan.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "木偶",
+      "name": "木偶",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$https://www.muou.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "蜡笔",
+      "name": "蜡笔",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$http://tvpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "至臻",
+      "name": "至臻",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "多多",
+      "name": "多多",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "欧哥",
+      "name": "欧哥",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$https://woog.430520.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "二小",
+      "name": "二小",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$https://www.2xiaopan.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "虎斑",
+      "name": "虎斑",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$http://121.205.88.174:16969$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "小斑",
+      "name": "小斑",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$http://121.205.88.174:12512$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    }
+  ]
+}

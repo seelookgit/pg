@@ -1,0 +1,183 @@
+{
+  "categories": [
+    {
+      "key": "1",
+      "name": "收藏",
+      "shares": [
+        {
+          "name": "应用商店",
+          "url": "514a56ac6d23"
+        },
+        {
+          "name": "老K",
+          "url": "a8ff0774006c",
+          "pwd": "3nXd"
+        },
+        {
+          "name": "1T音乐大合集",
+          "url": "809e08ad4a2d"
+        },
+        {
+          "name": "B站",
+          "url": "fbe028fea448"
+        }
+      ]
+    },
+    {
+      "key": "2",
+      "name": "电视剧",
+      "shares": [
+        {
+          "name": "豆瓣评分9.0以上国产剧",
+          "url": "d19c4ebe1ff7"
+        },
+        {
+          "name": "四大名著",
+          "url": "115854659ac1"
+        },
+        {
+          "name": "港剧",
+          "url": "8b041b243eeb"
+        },
+        {
+          "name": "大明王朝1566",
+          "url": "2ae3c998fa8a"
+        },
+        {
+          "name": "东周列国",
+          "url": "ab9012861703"
+        },
+        {
+          "name": "寻秦记",
+          "url": "e2d872fec146"
+        },
+        {
+          "name": "老友记",
+          "url": "829d1d53c680"
+        },
+        {
+          "name": "权力的游戏",
+          "url": "c467a7e0b151"
+        },
+        {
+          "name": "IT狂人",
+          "url": "37e7ca9b0180"
+        },
+        {
+          "name": "数字开头",
+          "url": "cd4c5ac7e830"
+        },
+        {
+          "name": "首字母ABCD",
+          "url": "e1b2ba8b6d6c"
+        },
+        {
+          "name": "首字母EFGH",
+          "url": "166fa0a7ca6f"
+        },
+        {
+          "name": "首字母IJKL",
+          "url": "37a92c0b7f10"
+        },
+        {
+          "name": "首字母NMOP",
+          "url": "fb3386e42af2"
+        },
+        {
+          "name": "首字母QRST",
+          "url": "46ce214f4ed7"
+        },
+        {
+          "name": "首字母UVWX",
+          "url": "fe4681d7fb43"
+        },
+        {
+          "name": "首字母YZ",
+          "url": "8d65e885b059"
+        }
+      ]
+    },
+    {
+      "key": "3",
+      "name": "电影",
+      "shares": [
+        {
+          "name": "各大制片厂老电影",
+          "url": "21bbeeac8fbc"
+        },
+        {
+          "name": "Top250",
+          "url": "babebbc4fb96"
+        },
+        {
+          "name": "以ABCD开头合集",
+          "url": "a632967760cf"
+        },
+        {
+          "name": "以EFGH开头合集",
+          "url": "2f59bb5d96b9"
+        },
+        {
+          "name": "以IJKL开头合集",
+          "url": "50828c368def"
+        },
+        {
+          "name": "以MNOP开头合集",
+          "url": "e07e26aecc08"
+        },
+        {
+          "name": "以QRST开头合集",
+          "url": "0536a38a356e"
+        },
+        {
+          "name": "以UVWX开头合集",
+          "url": "e273ef697403"
+        },
+        {
+          "name": "以YZ开头合集",
+          "url": "c8ac6c88e5d8"
+        },
+        {
+          "name": "以数字开头合集",
+          "url": "49ab75d52e00"
+        },
+        {
+          "name": "邵氏合集",
+          "url": "5612fe1adb4a"
+        },
+        {
+          "name": "韩国R级",
+          "url": "5432beae4f1a"
+        }
+      ]
+    },
+    {
+      "key": "4",
+      "name": "小雅",
+      "shares": [
+        {
+          "name": "每日更新|电视剧|其它（夸克）",
+          "url": "55265789d444",
+          "pwd": "UGrM"
+        },
+        {
+          "name": "每日更新|电视剧|国产剧（夸克）",
+          "url": "247a6f6be370",
+          "pwd": "iVLp"
+        },
+        {
+          "name": "每日更新|电视剧|日剧（夸克）",
+          "url": "6cb9933d59e4"
+        },
+        {
+          "name": "每日更新|电视剧|美剧（夸克）",
+          "url": "f8166d90ad57"
+        },
+        {
+          "name": "每日更新|纪录片（夸克）",
+          "url": "9413b9702dda"
+        }
+      ]
+    }
+  ]
+}
