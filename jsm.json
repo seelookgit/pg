@@ -152,7 +152,7 @@
       "name": "Youtube",
       "type": 3,
       "api": "csp_Youtube",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "timeout": 30,
@@ -190,7 +190,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woggpan.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.wogg.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "木偶",
@@ -200,7 +200,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.muou.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muou.asia$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -220,7 +220,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
@@ -250,7 +250,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.2xiaopan.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://wexwp.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "虎斑",
