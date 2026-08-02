@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;c123e8dfc2788b072f7a7e8ed03b124d",
+  "spider": "./pg.jar;md5;16fee5ae083033d3947012ee6a567494",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260801-1548",
+      "name": "20260802-1453",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -190,7 +190,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.wogg.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woggpan.xxooo.cf$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "木偶",
@@ -200,7 +200,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://123.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muou.asia$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -213,6 +213,16 @@
       "ext": "./lib/tokenm.json$$$http://feimo.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
+      "key": "闪电",
+      "name": "闪电",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$http://sd.sduc.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
       "key": "至臻",
       "name": "至臻",
       "type": 3,
@@ -220,7 +230,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
@@ -240,7 +250,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woog.430520.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "二小",
@@ -250,7 +260,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.wexwp.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.2xiaopan.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "虎斑",
