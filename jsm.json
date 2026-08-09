@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;08c9bd50f090f5528f299d3a4229e142",
+  "spider": "./pg.jar;md5;5d6550b81a253535c5937acd3b19f91e",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260808-1926",
+      "name": "20260809-0711",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -200,7 +200,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.muou.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://666.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -220,17 +220,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://sd.sduc.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-    },
-    {
-      "key": "至臻",
-      "name": "至臻",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://shandian.blog$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
@@ -240,7 +230,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://yydsys.de5.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "欧哥",
