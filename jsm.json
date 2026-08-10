@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;4c57eb7a80c6e31a0e4820ffe88f184b",
+  "spider": "./pg.jar;md5;618c5bb52e99666686edd5418d175ffe",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260809-1848",
+      "name": "20260810-2115",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -190,7 +190,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woggpan.xxooo.cf$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.wogg.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "木偶",
@@ -200,7 +200,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.muou.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://666.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -210,7 +210,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://feimo.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://tvpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "闪电",
@@ -220,7 +220,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://sd.sduc.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://shandian.blog$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
@@ -230,7 +230,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://tv.214521.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "欧哥",
@@ -240,7 +240,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woog.430520.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woog.nxog.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "二小",
