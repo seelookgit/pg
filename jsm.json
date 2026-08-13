@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;f2e2df07769180c39f2d8e311719048b",
+  "spider": "./pg.jar;md5;53986afd930cd57ea8dcdf3f53458e52",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260812-1451",
+      "name": "20260813-1558",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -143,8 +143,7 @@
       "playerType": 2,
       "hide": 1,
       "ext": {
-        "type": "演唱会#电影#电视剧#纪录片#综艺#音乐#舞蹈#影视#知识#美食#风光#田园#户外",
-        "cookie": ""
+        "type": "演唱会#电影#电视剧#纪录片#综艺#音乐#舞蹈#影视#知识#美食#风光#田园#户外"
       }
     },
     {
@@ -200,7 +199,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.muou.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muou.asia$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -220,7 +219,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://tv.214521.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://yydsys.de5.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "欧哥",
@@ -230,7 +229,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woog.nxog.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "二小",
@@ -240,7 +239,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://wexwp.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.wexwp.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "虎斑",
