@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;53986afd930cd57ea8dcdf3f53458e52",
+  "spider": "./pg.jar;md5;4f6118b635fc4cd50faefe21a5ce19fd",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260813-1558",
+      "name": "20260815-2254",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -189,7 +189,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.wogg.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woggpan.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "木偶",
@@ -199,7 +199,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.muou.asia$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muou.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -239,7 +239,7 @@
       "searchable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.wexwp.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://wexwp.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "虎斑",
