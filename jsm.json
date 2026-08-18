@@ -186,47 +186,47 @@
       "name": "玩偶",
       "type": 3,
       "api": "csp_Wogg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.wogg.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woggpan.xxooo.cf$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "木偶",
       "name": "木偶",
       "type": 3,
       "api": "csp_Wobg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://666.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muou.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
       "name": "蜡笔",
       "type": 3,
       "api": "csp_Wobg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://tvpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://feimo.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "至臻",
       "name": "至臻",
       "type": 3,
       "api": "csp_Wobg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
       "name": "多多",
       "type": 3,
       "api": "csp_Wobg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
       "ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
@@ -236,27 +236,27 @@
       "name": "欧哥",
       "type": 3,
       "api": "csp_Wobg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woog.430520.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woog.nxog.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "二小",
       "name": "二小",
       "type": 3,
       "api": "csp_Wobg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://wexwp.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.wexwp.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "虎斑",
       "name": "虎斑",
       "type": 3,
       "api": "csp_Wobg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
       "ext": "./lib/tokenm.json$$$http://121.205.88.174:16969$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
@@ -266,7 +266,7 @@
       "name": "小斑",
       "type": 3,
       "api": "csp_Wobg",
-      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
       "ext": "./lib/tokenm.json$$$http://121.205.88.174:12512$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
