@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;5012d72c9f629046e138a788d2c0f283",
+  "spider": "./pg.jar;md5;a35e8a70dcac036ca208c2a034e5da67",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260831-0814",
+      "name": "20260901-0830",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -189,7 +189,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.wogg.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woggpan.xxooo.cf$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "木偶",
@@ -199,7 +199,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://666.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muou.asia$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -229,7 +229,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
@@ -249,7 +249,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woog.430520.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "二小",
