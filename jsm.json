@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;93c353c59ef4962e19bb2e47bce5ddf1",
+  "spider": "./pg.jar;md5;df556b221db91b237e869669584da69c",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260903-0919",
+      "name": "20260904-1202",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -219,7 +219,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://shandian.blog$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://sd.sduc.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "至臻",
@@ -229,7 +229,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
@@ -239,7 +239,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://tv.yydsys.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://tv.yydsys.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "欧哥",
@@ -249,7 +249,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woog.430520.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woog.nxog.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "二小",
