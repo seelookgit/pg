@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;f39663c1188347604f74633673bb8de1",
+  "spider": "./pg.jar;md5;d5f9a1a103da2a974f6fa47b1aee9ea4",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260909-0824",
+      "name": "20260909-1950",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -209,7 +209,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://tvpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://feimo.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "闪电",
@@ -229,7 +229,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
