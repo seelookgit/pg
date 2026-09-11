@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;d5f9a1a103da2a974f6fa47b1aee9ea4",
+  "spider": "./pg.jar;md5;d6930285348ab02952effe0ba1564051",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260909-1950",
+      "name": "20260910-1112",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -199,7 +199,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.muou.asia$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://666.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
