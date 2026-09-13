@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;d6930285348ab02952effe0ba1564051",
+  "spider": "./pg.jar;md5;5387a546234027bf7e32788589b76fb2",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260910-1112",
+      "name": "20260913-0828",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -199,37 +199,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://666.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-    },
-    {
-      "key": "蜡笔",
-      "name": "蜡笔",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://feimo.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-    },
-    {
-      "key": "闪电",
-      "name": "闪电",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://sd.sduc.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-    },
-    {
-      "key": "至臻",
-      "name": "至臻",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://mihdr.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muou.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
@@ -250,16 +220,6 @@
       "changeable": 0,
       "hide": 1,
       "ext": "./lib/tokenm.json$$$https://woog.430520.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-    },
-    {
-      "key": "二小",
-      "name": "二小",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://wexwp.cc$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     }
   ]
 }
