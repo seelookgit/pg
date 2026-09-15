@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;e82ff196ab3f300bd801fb9462454308",
+  "spider": "./pg.jar;md5;489b0e107bc0d800250a48e03879da6f",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260913-2224",
+      "name": "20260915-1926",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -199,7 +199,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.muou.asia$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muou.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "闪电",
@@ -220,16 +220,6 @@
       "changeable": 0,
       "hide": 1,
       "ext": "./lib/tokenm.json$$$https://yydsys.de5.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-    },
-    {
-      "key": "欧哥",
-      "name": "欧哥",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woog.nxog.fun$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     }
   ]
 }
