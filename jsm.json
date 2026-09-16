@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;152639620bb40d91402810e79e0e77bf",
+  "spider": "./pg.jar;md5;f34ebae2f6f4f86b838b633136758ab0",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260916-1656",
+      "name": "20260916-1926",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
