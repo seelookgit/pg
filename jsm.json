@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;981ef4defa6277b9c2a171e605c5f83e",
+  "spider": "./pg.jar;md5;c70d55e87ea3cf4b0419e4ac30b761fa",
   "lives": [
     {
       "name": "iptv",
@@ -14,13 +14,13 @@
     {
       "name": "tg",
       "type": 0,
-      "url": "https://live.445569.xyz/live.m3u"
+      "url": "https://iptv.445569.xyz/live.m3u"
     }
   ],
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260926-0932",
+      "name": "20260926-2040",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
