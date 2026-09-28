@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260926-2040",
+      "name": "20260928-1752",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -111,24 +111,9 @@
       "hide": 1,
       "ext": {
         "token": "./lib/tokenm.json",
-        "siteurl": "https://so.252035.xyz",
+        "siteurl": "https://pspj.banye.tech:17777",
         "plugins": "all",
         "panlist": "115,baidu,aliyun,quark"
-      }
-    },
-    {
-      "key": "PanSou",
-      "name": "夸克",
-      "type": 3,
-      "jar": "./dp.jar;md5;b6c28db3ed75438481f2fbae81a58428",
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": {
-        "sources": [
-          "夸克"
-        ]
       }
     },
     {
