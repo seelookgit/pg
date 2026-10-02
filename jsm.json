@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;18dcaa5a7a4005af0fa2e869eb985800",
+  "spider": "./pg.jar;md5;48758c8f37306b9522328c1b80fc9857",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20260927-0949",
+      "name": "20260927-1933",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -218,7 +218,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://sd.sduc.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://shandian.blog$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "多多",
