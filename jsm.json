@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;586535b83e9c13ffaefb04adab972b72",
+  "spider": "./pg.jar;md5;e40a20e4370c97df1fc16cc63d075a55",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20261002-1037",
+      "name": "20261010-1122",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -208,7 +208,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://tvpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.mmpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "闪电",
@@ -228,7 +228,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://yydsys.de5.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://tv.214521.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "欧哥",
