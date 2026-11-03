@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;7fa1e8d75bb7202cf0cbbf600a86d23c",
+  "spider": "./pg.jar;md5;c9b29f2259751c99bc9eca4c553b4e72",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20261020-1410",
+      "name": "20261101-1932",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -208,7 +208,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://tvpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.mmpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "闪电",
@@ -228,7 +228,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://tv.214521.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://yydsys.de5.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "欧哥",
@@ -238,7 +238,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://woog.430520.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "花卷",
@@ -249,26 +249,6 @@
       "changeable": 0,
       "hide": 1,
       "ext": "./lib/tokenm.json$$$https://www.hjzhencai.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-    },
-    {
-      "key": "虎斑",
-      "name": "虎斑",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://43.248.128.118:16969$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-    },
-    {
-      "key": "小斑",
-      "name": "小斑",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://43.248.128.118:12512$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     }
   ]
 }
