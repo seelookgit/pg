@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;c9b29f2259751c99bc9eca4c553b4e72",
+  "spider": "./pg.jar;md5;46b8a18f5f076729d19c8c6353dcde19",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20261101-1932",
+      "name": "20261109-1526",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -198,7 +198,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://666.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muoua.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -208,7 +208,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.mmpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://tvpanpan.site$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "闪电",
@@ -228,7 +228,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://yydsys.de5.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://pan.yydsys.de$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "欧哥",
@@ -249,6 +249,26 @@
       "changeable": 0,
       "hide": 1,
       "ext": "./lib/tokenm.json$$$https://www.hjzhencai.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "虎斑",
+      "name": "虎斑",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$http://38.76.197.172:16969$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+    },
+    {
+      "key": "小斑",
+      "name": "小斑",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 0,
+      "hide": 1,
+      "ext": "./lib/tokenm.json$$$http://38.76.197.172:12521$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     }
   ]
 }
