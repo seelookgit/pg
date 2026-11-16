@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;36d9a3b960a4e578e4b9f2ebd2a93d0f",
+  "spider": "./pg.jar;md5;d531a1fc94253314b818fbc1a0c0d6df",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20261113-1826",
+      "name": "20261115-1919",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -113,7 +113,7 @@
       "hide": 1,
       "ext": {
         "token": "./lib/tokenm.json",
-        "siteurl": "https://so.huahoo.net",
+        "siteurl": "https://jiduo-ps.jiduovox.de5.net/go/panso-jiduovox",
         "plugins": "all",
         "panlist": "115,baidu,aliyun,quark"
       }
@@ -198,7 +198,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://333.333291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://123.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -228,7 +228,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://pan.yydsys.de$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://tv.214521.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "欧哥",
@@ -241,16 +241,6 @@
       "ext": "./lib/tokenm.json$$$https://woog.nxog.eu.org$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
-      "key": "花卷",
-      "name": "花卷",
-      "type": 3,
-      "api": "csp_Hjzc",
-      "quickSearch": 1,
-      "changeable": 0,
-      "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.hjzhencai.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
-    },
-    {
       "key": "虎斑",
       "name": "虎斑",
       "type": 3,
@@ -258,7 +248,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://xhban.xyz:20720$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://38.76.197.172:16969$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "小斑",
@@ -268,7 +258,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://38.76.197.172:12521$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://103.40.14.172:12512$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     }
   ]
 }
