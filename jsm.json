@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;d75b3b64f726733637832be0d5e32acd",
+  "spider": "./pg.jar;md5;439b3809d384c591819a3826ea07a4b0",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20261119-0833",
+      "name": "20261121-0836",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -188,7 +188,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.wogg.net$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://woggpan.888484.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "木偶",
@@ -198,7 +198,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://333.333291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.muoua.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -258,7 +258,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$http://38.76.197.172:16969$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$http://xhban.xyz:20720$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "小斑",
