@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar;md5;439b3809d384c591819a3826ea07a4b0",
+  "spider": "./pg.jar;md5;87b628d9a81e73b446b6e19cfc49b70e",
   "lives": [
     {
       "name": "iptv",
@@ -20,7 +20,7 @@
   "sites": [
     {
       "key": "配置中心",
-      "name": "20261121-0836",
+      "name": "20261124-1101",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -112,7 +112,7 @@
       "hide": 1,
       "ext": {
         "token": "./lib/tokenm.json",
-        "siteurl": "https://pspj.banye.tech:17777/",
+        "siteurl": "https://so.252035.xyz",
         "plugins": "all",
         "panlist": "115,baidu,aliyun,quark"
       }
@@ -197,7 +197,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://333.333291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://123.666291.xyz$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "蜡笔",
@@ -247,7 +247,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "./lib/tokenm.json$$$https://www.huanjuanwp.shop$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+      "ext": "./lib/tokenm.json$$$https://www.hjzhencai.top$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
     },
     {
       "key": "虎斑",
